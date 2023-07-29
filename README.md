@@ -1,1 +1,2 @@
-stock-price-pridction-using-lstm-model
+stock-price-pridction-using-lstm-model.
+
